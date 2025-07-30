@@ -5,6 +5,5 @@ plotly>=5.15.0
 uuid
 dataclasses
 datetime
-json
 time
 typing
